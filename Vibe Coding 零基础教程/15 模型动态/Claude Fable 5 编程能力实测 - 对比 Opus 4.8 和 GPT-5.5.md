@@ -14,6 +14,8 @@
 
 友情提示，这次的测试成本有点高，希望大家心疼一下我的钱包，把这篇文章看到最后哦。
 
+⭐️ 本文对应视频版：https://bilibili.com/video/BV1cpEd66EjT
+
 
 
 ## Claude Fable 5 更新了什么？

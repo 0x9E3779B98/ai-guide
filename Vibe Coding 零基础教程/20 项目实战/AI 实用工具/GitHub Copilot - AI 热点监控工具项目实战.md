@@ -6,6 +6,8 @@
 
 完整视频教程 + 文字教程（预计 2 ~ 5 天学完）：https://www.codefather.cn/course/2026625439052627970
 
+⭐️ 项目介绍视频：https://bilibili.com/video/BV1g8d8B6ENk
+
 ![](https://pic.yupi.icu/1/image-20260304102630302.png)
 
 

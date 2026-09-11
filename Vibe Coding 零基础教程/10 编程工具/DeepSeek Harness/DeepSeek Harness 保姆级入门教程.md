@@ -14,6 +14,8 @@ DeepSeek Harness 开源的 [GitHub 仓库](https://github.com/deepseek-ai/deepse
 
 这篇文章我会从安装开始，手把手带你体验 DeepSeek Harness 的核心玩法，小白可懂，建议收藏~
 
+⭐️ 本文对应视频版：https://bilibili.com/video/BV1VkgK6NEZS
+
 
 
 ## 一、DeepSeek Harness 是什么？

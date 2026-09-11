@@ -6,6 +6,8 @@
 
 项目代码免费开源：https://github.com/liyupi/yupi-skill
 
+⭐️ 推荐观看视频版，效果演示更直观：https://bilibili.com/video/BV1oWQuBEEZ3
+
 
 
 ---

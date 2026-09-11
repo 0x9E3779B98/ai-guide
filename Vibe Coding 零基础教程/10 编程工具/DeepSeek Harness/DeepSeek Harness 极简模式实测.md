@@ -38,6 +38,8 @@
 
 而这两天社区里讨论得最多的一个说法，就跟 DeepSeek Harness 中一个不起眼的模式有关。
 
+⭐️ 本文对应视频版：https://bilibili.com/video/BV1AVbQ64EDX
+
 
 
 ## 极简模式邪修

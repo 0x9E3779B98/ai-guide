@@ -40,6 +40,8 @@ DeepSeek V4 Pro 正式版拿了 87.9，而国外顶级模型 Claude Fable 5 是 
 
 答案在结尾揭晓~
 
+⭐️ 本文对应视频版：https://bilibili.com/video/BV1NXgs6gEeZ
+
 
 
 ## 先给 DeepSeek V4 Pro 搭一套 Harness

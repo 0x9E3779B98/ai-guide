@@ -10,6 +10,8 @@
 
 这篇文章我就手把手教你把国内模型接到 Claude Code 和 Codex 里。我会以 DeepSeek 为例，看完你就能跑通整套流程，想换哪家模型都是一样的操作。
 
+⭐️ 本文对应视频版，2 分钟就能跟着搞定：https://bilibili.com/video/BV14JEj6uEdG
+
 点个收藏，咱们开始~
 
 
